@@ -14,6 +14,18 @@ Follow these steps to set up your environment and run the code:
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Sreek108/Hyperspectral-Imaging-Data.git
+
+### 2. Create and Activate a Virtual Environment
+It is recommended to use a virtual environment to manage dependencies.
+
+On Windows (Command Prompt):
 python -m venv venv
 venv\Scripts\activate
 
+On Windows (Git Bash):
+python -m venv venv
+source venv/Scripts/activate
+
+On macOS/Linux:
+python3 -m venv venv
+source venv/bin/activate
