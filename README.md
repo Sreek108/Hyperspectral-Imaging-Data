@@ -14,7 +14,7 @@ Hyperspectral imaging captures information across the electromagnetic spectrum, 
 ## Repository Structure
 
 - `hyperspectral_analysis.py`: Main Python script containing all analysis code
-- `requirements.txt`: List of required packages
+- `TASK-ML-INTERN.csv`: Data Set
 - `report.md`: Technical report detailing methodology and findings
 - `README.md`: This file with setup and usage instructions
 
@@ -35,11 +35,6 @@ cd hyperspectral-mycotoxin-prediction
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-```
-
-3. Install the required packages:
-```bash
-pip install -r requirements.txt
 ```
 
 ## Usage
