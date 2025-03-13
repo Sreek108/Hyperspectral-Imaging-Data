@@ -37,6 +37,10 @@ python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ```
 
+3. Install the required packages::
+```bash
+pip install -r TASK-ML-INTERN.csv
+```
 ## Usage
 
 1. Place your hyperspectral dataset in the project directory or update the file path in the script.
