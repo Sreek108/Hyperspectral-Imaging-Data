@@ -98,4 +98,4 @@ The actual vs. predicted plot showed a strong correlation between predicted and 
    - Develop the suggested Streamlit application for interactive predictions from user-uploaded spectral data.
    - Include visualizations of the spectral data and model explanations to enhance user understanding.
 
-Implementing these suggestions could substantially improve the model's performance and practical utility for mycotoxin prediction in agricultural applications.
+
